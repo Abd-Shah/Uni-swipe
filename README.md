@@ -1,7 +1,5 @@
 🎓 **UniSwipe** is a Tinder-style university discovery platform that helps students explore and compare universities in a more interactive way.
 
-The idea behind the project was to simplify the university search process by allowing users to swipe through universities, save the ones they like, apply filters, and compare options using a recommendation engine.
-
 The platform includes:
 
 * Swipe-based university browsing
