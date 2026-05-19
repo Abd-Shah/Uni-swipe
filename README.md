@@ -2,8 +2,6 @@
 
 The idea behind the project was to simplify the university search process by allowing users to swipe through universities, save the ones they like, apply filters, and compare options using a recommendation engine.
 
-The frontend was built using Next.js, React, and TypeScript with Framer Motion animations for the swipe-card experience, while the backend was developed using FastAPI and Python.
-
 The platform includes:
 
 * Swipe-based university browsing
